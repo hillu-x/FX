@@ -66,7 +66,6 @@
 <label>Your message:</label>
 <textarea name="name" rows="10" cols="30"></textarea><br>
 <input type="submit" name=""><br>
-
 </form>
 </body>
 
