@@ -3,6 +3,11 @@
 <head>
 <title>Hillary Daniel's FX site</title>
 </head>
+<style>
+body{ background-colour: powerder blue;"}
+h1{ colour: aqua;"}
+    
+</style>
 <body>
 <img src="https://images.contentstack.io/v3/assets/bltc23b87e0fef43b66/blt118ddccbd2118c26/66606d98742a0c97057c767a/02_Platforms-Card01_alt.jpg?format=pjpg&auto=webp&quality=90&width=365&disable=upscale">
 <p>in this page ill be teaching you on how to become a trading expert on evry aspect of tradding.</p>
