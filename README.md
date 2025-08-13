@@ -56,7 +56,7 @@
 <td>⭐⭐⭐</td>
 </tr>
 </table>
-<form action="mailto:hillarydaniel854@gmail.com" method="post" enctype="text/plain">
+<form action="mailto:hillarydaniel854@gmail.com"method="post"enctype="text/plain">
 <label>Do you want to sign up</label>
 <input type="checkbox"><br>
 <label>Your name:</label>
@@ -68,6 +68,4 @@
 <input type="submit" name=""><br>
 </form>
 </body>
-
-
 </html>
